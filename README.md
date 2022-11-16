@@ -1,0 +1,2 @@
+# Emulacja
+# I am starting
